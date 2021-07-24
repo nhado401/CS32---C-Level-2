@@ -1,7 +1,7 @@
 # CS32---C++ Level-2
 This is project 4 in my class, which was taken in Spring 2021 and was taught by Professor David Smallberg.
 
-Project 4 is one of the 2 biggest projets in CS32 class, which is emphasized in data structures.
+Project 4 is one of the 2 biggest projects in CS32 class, which is emphasized in data structures.
 For this project, we will build a simple database in memory and process database queries.
 A simple database table is a collection of records. Each record has the same number of fields.
 
