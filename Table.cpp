@@ -1,4 +1,4 @@
-#Code was written by Nha Do in Spring 2021
+//Code was written by Nha Do in Spring 2021
 
 #include "Table.h"
 #include <string>
