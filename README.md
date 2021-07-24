@@ -1,4 +1,4 @@
-# CS32---C-Level-2
+# CS32---C++ Level-2
 This is project 4 in my class, which was taken in Spring 2021 and was taught by Professor David Smallberg.
 
 Project 4 is one of the 2 biggest projets in CS32 class, which is emphasized in data structures.
